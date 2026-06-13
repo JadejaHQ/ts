@@ -10,6 +10,11 @@ _an opinionated TypeScript toolkit_
 
 Documentation will be added in future releases.
 
+### See In Action
+
+- [`@jadeja/docs`](https://github.com/JadejaHQ/docs)
+- [`shilpcss`](https://github.com/JadejaHQ/shilpcss)
+
 <br />
 
 ## Community
