@@ -1,26 +1,35 @@
 # Changelog
 
+## 1.0.0-alpha.5
+
+### Patch Changes
+
+- fix: infra.
+  - fix ci/cd for additional checking
+  - fix lint-staged running on full project
+- chore: update readme file for usage example
+
 ## 1.0.0-alpha.4
 
-## Patch Changes
+### Patch Changes
 
 - fix: moved `glob` from dependencies to peerDependencies
 
 ## 1.0.0-alpha.3
 
-## Patch Changes
+### Patch Changes
 
 - fix: `_virtual` is missing from `dist` folder
 
 ## 1.0.0-alpha.2
 
-## Patch Changes
+### Patch Changes
 
 - chore: bump version and add changelog entry
 
 ## 1.0.0-alpha.1
 
-## Minor Changes
+### Minor Changes
 
 - refactor: package architecture
   - remove all `index.ts` files
